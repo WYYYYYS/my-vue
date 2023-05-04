@@ -2,7 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-
+    <h1>1212</h1>
     <h1>鹅鹅鹅</h1>
     <h1>曲项向天歌</h1>
     <h1>白毛浮绿水</h1>
@@ -18,6 +18,7 @@ export default {
   data() {
     return {
       info:'泰酷辣',
+      box:'8888'
     }
   },
   name: 'HomeView',
