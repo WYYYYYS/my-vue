@@ -4,7 +4,6 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
 
     <h1>鹅鹅鹅</h1>
-    <h2>骆宾王</h2>
     <h1>曲项向天歌</h1>
     <h1>白毛浮绿水</h1>
     <h1>红掌拨清波</h1>
@@ -19,10 +18,6 @@ export default {
   data() {
     return {
       info:'泰酷辣',
-
-      name:'mt',
-
-      age:'20'
     }
   },
   name: 'HomeView',
